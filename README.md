@@ -1,16 +1,35 @@
-## Hi there 👋
+# Salut, je suis Hec8 👋
 
-<!--
-**Hec8/Hec8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! Je suis passionné(e) par le développement web, l'apprentissage continu et la collaboration sur des projets innovants.
 
-Here are some ideas to get you started:
+- 🌱 **Apprentissage** : Je suis en troisième année de Licence en Génie Logiciel et je suis spécialisé en Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 Collaborations
+
+Je suis ouvert(e) à la collaboration sur des projets intéressants, en particulier ceux qui touchent au Framework [Laravel]. Si tu as une idée de projet, n'hésite pas à me contacter !
+
+## 🤔 Aide recherchée
+
+Si tu as de l'expérience en [développement web], je serais ravi(e) de discuter et d'apprendre de toi. N'hésite pas à ouvrir une issue ou à me contacter directement.
+
+
+
+## 📫 Comment me contacter
+
+- **Email** : [akpohector4@gmail.com](mailto:akpohector4@gmail.com)
+- **LinkedIn** : [Hector AKPO](https://www.linkedin.com/in/hector-akpo-08b74128b)
+- **Twitter** : [@hector_akpo]( https://x.com/AkpoHector?t=o1aLfVr-_i2fCM9SsIz9uQ&s=08)
+
+## 😄 Pronoms
+
+Il/Elle ou Ils/Elles
+
+## ⚡ Fun fact
+
+Un fait amusant sur moi : [par exemple, "Je suis très fort au foot 😄😄 "]
+
+---
+
+⭐ N'hésite pas à explorer mes repositories et à laisser une étoile si tu trouves quelque chose d'intéressant !
+
+
