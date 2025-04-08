@@ -26,7 +26,7 @@ Il/Elle ou Ils/Elles
 
 ## ⚡ Fun fact
 
-Un fait amusant sur moi : [par exemple, "Je suis très fort au foot 😄😄 "]
+Un fait amusant sur moi : Je suis très fort au foot 😄😄
 
 ---
 
